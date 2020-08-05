@@ -1,0 +1,824 @@
+本页面介绍了Minecraft[[基岩版]]的翻译问题。
+
+== 现状 ==
+Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的志愿者进行[[Minecraft Wiki:译名标准化|翻译]]，而前者由[[wikipedia:zh:微软工作室|微软工作室]]聘请的外包团队翻译{{more info}}。然而，Java版的翻译过程有良好的社区参与机制，基岩版的翻译却由不负责任的译者完成。因此，基岩版便会有许多令人生厌的译名出现。由于Minecraft[[教育版]]和[[Minecraft Earth]]基于基岩版开发，因此这两个版本的Minecraft中存在同样的问题。
+
+俄语Crowdin校对员fromgate制作了一款名为[https://www.curseforge.com/minecraft/mc-addons/translations-for-minecraft Translations for Minecraft (Bedrock)]的全语言基岩版翻译修正资源包，可于Crowdin提交翻译，已收获数百万下载量。
+
+中文Minecraft Wiki行政员[[User:Ff98sha|Ff98sha]]制作了一款'''[http://www.mcbbs.net/thread-682370-1-1.html 基岩版译名修正资源包]'''，适用于简体中文，目前下载量破万（繁體中文由[https://home.gamer.com.tw/homeindex.php?owner=a56565656 小俊AUA]製作，可[https://forum.gamer.com.tw/C.php?bsn=18673&snA=183269 在此]找到）。
+
+据Mojang透露，基岩版的翻译流程较难改变。中文Minecraft Wiki管理团队作为Minecraft简体中文译名的维护者，多年来一直在推动问题的解决。
+
+由于相关问题汇报在[[漏洞追踪器]]一直处于无人响应的状态，目前由Ff98sha重新整理了一份漏洞报告{{bug|MCPE-61166}}，希望Mojang对全语言的基岩版翻译流程进行修改，目前该漏洞报告已有超过100人投票。
+
+== 对照表 ==
+以下是一些在基岩版游戏中难以理解的翻译和其对应Java版译名，并非完整的差异列表。
+
+'''注意：在Wiki内''切勿''使用基岩版译名进行编辑。'''
+
+=== 方块 ===
+{| class="wikitable sortable" data-description="方块"
+!图标
+!英文
+!中文（基翻）
+!中文（标准译名）
+!注释
+|-
+|{{BlockSprite|Acacia Button}} || Acacia Button || 金合欢按钮 || [[金合欢木按钮]] ||
+|-
+|{{BlockSprite|Acacia Pressure Plate}} || Acacia Pressure Plate || 金合欢压力板 || [[金合欢木压力板]] ||
+|-
+|{{BlockSprite|Acacia Trapdoor}} || Acacia Trapdoor || 金合欢活板门 || [[金合欢木活板门]] ||
+|-
+|{{BlockSprite|Allow}} || Allow Block || 权限块 || [[允许方块|权限方块]] ||
+|-
+|{{BlockSprite|Allow}} || Allow || 允许 || [[允许方块]] ||
+|-
+|{{BlockSprite|Beehive}} || Beehive || 蜂窝 || [[蜂箱]] ||
+|-
+|{{BlockSprite|Birch Button}} || Birch Button || 桦树按钮 || [[白桦木按钮]] ||
+|-
+|{{BlockSprite|Birch Door}} || Birch Door || 桦木门 || [[白桦木门]] ||
+|-
+|{{BlockSprite|Birch Leaves}} || Birch Leaves || 桦树叶 || [[白桦树叶]] ||
+|-
+|{{BlockSprite|Birch Log}} || Birch Log || 桦树原木 || [[白桦原木]] ||
+|-
+|{{BlockSprite|Birch Planks}} || Birch Planks || 桦木板 || [[白桦木板]] ||
+|-
+|{{BlockSprite|Acacia Pressure Plate}} || Birch Pressure Plate || 桦树压力板 || [[白桦木压力板]] ||
+|-
+|{{BlockSprite|Birch Sapling}} || Birch Sapling || 桦树苗 || [[白桦树苗]] ||
+|-
+|{{BlockSprite|Birch Slab}} || Birch Slab || 桦木台阶 || [[白桦木台阶]] ||
+|-
+|{{BlockSprite|Birch Trapdoor}} || Birch Trapdoor || 桦树活板门 || [[白桦木活板门]] ||
+|-
+|{{BlockSprite|Blue Ice}} || Blue Ice || 蓝色冰 || [[蓝冰]] ||
+|-
+|{{BlockSprite|Bone Block}} || Bone Block || 骨头方块 || [[骨块]] ||
+|-
+|{{BlockSprite|Border}} || Border || 边框 || [[边界方块]] ||
+|-
+|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚 || [[脑纹珊瑚]] ||
+|-
+|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚区块{{until|be 1.16.20}} || [[脑纹珊瑚块]] ||
+|-
+|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚方块{{upcoming|be 1.16.20}} || [[脑纹珊瑚块]] ||
+|-
+|{{BlockSprite|Brain Coral Fan}} || Brain Coral Fan || 脑珊瑚扇 || [[脑纹珊瑚扇]] ||
+|-
+|{{BlockSprite|Brick Wall}} || Brick Wall || 砖墙 || [[砖块墙]] ||
+|-
+|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚 || [[气泡珊瑚]] ||
+|-
+|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚区块{{until|be 1.16.20}} || [[气泡珊瑚块]] ||
+|-
+|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚方块{{upcoming|be 1.16.20}} || [[气泡珊瑚块]] ||
+|-
+|{{BlockSprite|Bubble Coral Fan}} || Bubble Coral Fan || 泡珊瑚扇 || [[气泡珊瑚扇]] ||
+|-
+|{{BlockSprite|Carved Pumpkin}} || Carved Pumpkin || 雕刻南瓜 || [[雕刻过的南瓜]] ||
+|-
+|{{BlockSprite|Chain}} || Chain || 链 || [[锁链]] ||
+|-
+|{{BlockSprite|Chain Command Block}} || Chain Command Block || 链命令块{{until|be 1.16.20}} || [[连锁型命令方块]] ||
+|-
+|{{BlockSprite|Chain Command Block}} || Chain Command Block || 链命令方块{{upcoming|be 1.16.20}} || [[连锁型命令方块]] ||
+|-
+|{{BlockSprite|Chiseled Nether Bricks}} || Chiseled Nether Bricks || 錾制地狱砖 || [[錾制下界砖块]] ||
+|-
+|{{BlockSprite|Chorus Flower}} || Chorus Flower || 共鸣花 || [[紫颂花]] ||
+|-
+|{{BlockSprite|Chorus Plant}} || Chorus Plant || 共鸣植物 || [[紫颂植物]] ||
+|-
+|{{BlockSprite|Cobblestone Wall}} || Cobblestone Wall || 圆石墙  || [[圆石墙]] ||
+|-
+|{{ItemSprite|Cocoa Beans}} || Cocoa Beans || 可可 || [[可可豆]] ||
+|-
+|{{BlockSprite|Command Block}} || Command Block || 命令块{{until|be 1.16.20}} || [[命令方块]] ||
+|-
+|{{BlockSprite|Composter}} || Composter || 堆肥箱 || [[堆肥桶]] ||
+|-
+|{{BlockSprite|Conduit}} || Conduit || 导管{{until|be 1.16.20}} || [[潮涌核心]] ||
+|-
+|{{BlockSprite|Coral Blocks}} || Coral Block || 珊瑚区块{{until|be 1.16.20}} || [[珊瑚块]] ||
+|-
+|{{BlockSprite|Coral Blocks}} || Coral Block || 珊瑚方块{{upcoming|be 1.16.20}} || [[珊瑚块]] ||
+|-
+|{{BlockSprite|Cracked Nether Bricks}} || Cracked Nether Bricks || 裂地狱砖 || [[裂纹下界砖块]] ||
+|-
+|{{BlockSprite|Cracked Polished Blackstone Bricks}} || Cracked Polished Blackstone Bricks || 裂磨制黑石砖 || [[裂纹磨制黑石砖]] ||
+|-
+|{{BlockSprite|Creeper Head}} || Creeper Head || 爬行者的头 || [[苦力怕的头]] ||
+|-
+|{{BlockSprite|Crimson Button}} || Crimson Button || 绯红按钮 || [[绯红木按钮]] ||
+|-
+|{{BlockSprite|Crimson Fungus}} || Crimson Fungus || 绯红真菌 || [[绯红菌]] ||
+|-
+|{{BlockSprite|Crimson Hyphae}} || Crimson Hyphae || 绯红菌丝 || [[绯红菌核]] ||
+|-
+|{{BlockSprite|Crimson Pressure Plate}} || Crimson Pressure Plate || 绯红压力板 || [[绯红木压力板]] ||
+|-
+|{{BlockSprite|Crimson Roots}} || Crimson Roots || 绯红根 || [[绯红菌索]] ||
+|-
+|{{BlockSprite|Crimson Stem}} || Crimson Stem || 绯红茎 || [[绯红菌柄]] ||
+|-
+|{{BlockSprite|Crimson Trapdoor}} || Crimson Trapdoor || 绯红活板门 || [[绯红木活板门]] ||
+|-
+|{{BlockSprite|Dark Oak Button}} || Dark Oak Button || 深色橡树按钮 || [[深色橡木按钮]] ||
+|-
+|{{BlockSprite|Dark Oak Leaves}} || Dark Oak Leaves || 深色像树叶{{until|be 1.16.20}} || [[深色橡树树叶]] ||
+|-
+|{{BlockSprite|Dark Oak Leaves}} || Dark Oak Leaves || 深色橡树叶{{upcoming|be 1.16.20}} || [[深色橡树树叶]] ||
+|-
+|{{BlockSprite|Dark Oak Log}} || Dark Oak Log || 深色橡树原木 || [[深色橡木原木]] ||
+|-
+|{{BlockSprite|Dark Oak Pressure Plate}} || Dark Oak Pressure Plate || 深色橡树压力板 || [[深色橡木压力板]] ||
+|-
+|{{BlockSprite|Dark Oak Sapling}} || Dark Oak Sapling || 深色橡树苗 || [[深色橡树树苗]] ||
+|-
+|{{BlockSprite|Dark Oak Trapdoor}} || Dark Oak Trapdoor || 深色橡树活板门 || [[深色橡木活板门]] ||
+|-
+|{{BlockSprite|Daylight Detector}} || JE：Daylight Detector <br>BE：Daylight Sensor || 阳光传感器 || [[阳光探测器]] ||
+|-
+|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚 || [[失活的脑纹珊瑚]] ||
+|-
+|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚区块{{until|be 1.16.20}} || [[失活的脑纹珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚方块{{upcoming|be 1.16.20}} || [[失活的脑纹珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Brain Coral Fan}} || Dead Brain Coral Fan || 死亡脑珊瑚扇 || [[失活的脑纹珊瑚扇]] ||
+|-
+|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚 || [[失活的气泡珊瑚]] ||
+|-
+|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚区块{{until|be 1.16.20}} || [[失活的气泡珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚方块{{upcoming|be 1.16.20}} || [[失活的气泡珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Bubble Coral Fan}} || Dead Bubble Coral Fan || 死亡泡珊瑚扇 || [[失活的气泡珊瑚扇]] ||
+|-
+|{{BlockSprite|Dead Bush}} || Dead Bush || 枯死的灌木 || [[枯萎的灌木]] ||
+|-
+|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚 || [[失活的火珊瑚]] ||
+|-
+|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚区块{{until|be 1.16.20}} || [[失活的火珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚方块{{upcoming|be 1.16.20}} || [[失活的火珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Fire Coral Fan}} || Dead Fire Coral Fan || 死亡火珊瑚扇 || [[失活的火珊瑚扇]] ||
+|-
+|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚 || [[失活的鹿角珊瑚]] ||
+|-
+|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚区块{{until|be 1.16.20}} || [[失活的鹿角珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚方块{{upcoming|be 1.16.20}} || [[失活的鹿角珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Horn Coral Fan}} || Dead Horn Coral Fan || 死亡角珊瑚扇 || [[失活的鹿角珊瑚扇]] ||
+|-
+|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚 || [[失活的管珊瑚]] ||
+|-
+|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚区块{{until|be 1.16.20}} || [[失活的管珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚方块{{upcoming|be 1.16.20}} || [[失活的管珊瑚块]] ||
+|-
+|{{BlockSprite|Dead Tube Coral Fan}} || Dead Tube Coral Fan || 死亡管珊瑚扇 || [[失活的管珊瑚扇]] ||
+|-
+|{{BlockSprite|Deny}} || Deny || 拒绝 || [[拒绝方块]] ||
+|-
+|{{BlockSprite|Dried Kelp Block}} || Dried Kelp Block || 干海带区块{{until|be 1.16.20}} || [[干海带块]] ||
+|-
+|{{BlockSprite|Dried Kelp Block}} || Dried Kelp Block || 干海带方块{{upcoming|be 1.16.20}} || [[干海带块]] ||
+|-
+|{{ItemSprite|End Crystal}} || End Crystal || 末地水晶 || [[末影水晶]] ||
+|-
+|{{BlockSprite|End Portal Frame}} || End Portal Frame || 末地传送门 || [[末地传送门框架]] ||
+|-
+|{{BlockSprite|End Rod}} || End Rod || 末地棒{{until|be 1.16.20}} || [[末地烛]] ||
+|-
+|{{BlockSprite|Farmland}} || Farmland || 农田 || [[耕地]] ||
+|-
+|{{BlockSprite|Fences}} || Fence || 围墙 || [[栅栏]] || 【一系列】
+|-
+|{{BlockSprite|Fence Gates}} || Fence Gate || 围墙门 || [[栅栏门]] || 【一系列】
+|-
+|{{BlockSprite|Fence Gates}} || Fence Gate || 围墙大门 || [[栅栏门]] || 【一系列】
+|-
+|{{BlockSprite|Fire Coral Block}} || Fire Coral Block || 火珊瑚区块{{until|be 1.16.20}} || [[火珊瑚块]] ||
+|-
+|{{BlockSprite|Fire Coral Block}} || Fire Coral Block || 火珊瑚方块{{upcoming|be 1.16.20}} || [[火珊瑚块]] ||
+|-
+|{{BlockSprite|Fletching Table}} || Fletching Table || 造箭台 || [[制箭台]] ||
+|-
+|{{BlockSprite|Gilded Blackstone}} || Gilded Blackstone || 镀金黑石 || [[镶金黑石]] ||
+|-
+|{{BlockSprite|Glowstone}} || Glowstone || 萤石 || [[荧石]] ||
+|-
+|{{BlockSprite|Gravel}} || Gravel || 砂砾 || [[沙砾]] ||
+|-
+|{{BlockSprite|Grass}} || Grass || 地被植物 || [[草]] ||
+|-
+|{{BlockSprite|Grass Path}} || Grass Path || 绿茵小道 || [[草径]] ||
+|-
+|{{BlockSprite|Hay Bale}} || Hay Bale || 干草捆 || [[干草块]] ||
+|-
+|{{BlockSprite|Heavy Weighted Pressure Plate}} || JE：Heavy Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Heavy) || 重力压力板（重型）{{until|be 1.16.20}} || [[测重压力板（重质）]] ||
+|-
+|{{BlockSprite|Heavy Weighted Pressure Plate}} || JE：Heavy Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Heavy) || 测重压力板（重型）{{upcoming|be 1.16.20}} || [[测重压力板（重质）]] ||
+|-
+|{{BlockSprite|Honey Block}} || Honey Block || 蜂蜜方块 || [[蜂蜜块]] ||
+|-
+|{{BlockSprite|Honeycomb Block}} || Honeycomb Block || 蜂房方块 || [[蜜脾块]] ||
+|-
+|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚 || [[鹿角珊瑚]] ||
+|-
+|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚区块{{until|be 1.16.20}} || [[鹿角珊瑚块]] ||
+|-
+|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚方块{{upcoming|be 1.16.20}} || [[鹿角珊瑚块]] ||
+|-
+|{{BlockSprite|Horn Coral Fan}} || Horn Coral Fan || 角珊瑚扇 || [[鹿角珊瑚扇]] ||
+|-
+|{{BlockSprite|Infested Chiseled Stone Bricks}} || Infested Chiseled Stone Bricks || 怪物錾制石砖 || [[被虫蚀的錾制石砖]] ||
+|-
+|{{BlockSprite|Infested Cobblestone}} || Infested Cobblestone || 怪物圆石 || [[被虫蚀的圆石]] ||
+|-
+|{{BlockSprite|Infested Cracked Stone Bricks}} || Infested Cracked Stone Bricks || 怪物裂石砖 || [[被虫蚀的裂石砖]] ||
+|-
+|{{BlockSprite|Infested Mossy Stone Bricks}} || Infested Mossy Stone Bricks || 怪物苔石砖 || [[被虫蚀的苔石砖]] ||
+|-
+|{{BlockSprite|Infested Stone Bricks}} || Infested Stone Bricks || 怪物石砖 || [[被虫蚀的石砖]] ||
+|-
+|{{BlockSprite|Iron Trapdoor}} || Iron Trapdoor || 铁陷阱门 || [[铁活板门]] ||
+|-
+|{{BlockSprite|Jigsaw Block}} || Jigsaw Block || 线锯方块{{until|be 1.16.20}} || [[拼图方块]] ||
+|-
+|{{BlockSprite|Jungle Button}} || Jungle Button || 丛林按钮 || [[丛林木按钮]] ||
+|-
+|{{BlockSprite|Jungle Planks}} || Jungle Planks || 丛林树木板 || [[丛林木板]] ||
+|-
+|{{BlockSprite|Jungle Pressure Plate}} || Jungle Pressure Plate || 丛林压力板 || [[丛林木压力板]] ||
+|-
+|{{BlockSprite|Jungle Trapdoor}} || Jungle Trapdoor || 丛林活板门 || [[丛林木活板门]] ||
+|-
+|{{BlockSprite|Lava}} || Lava || 岩浆 || [[熔岩]] ||
+|-
+|{{BlockSprite|Light Block}} || Light Block || 光明方块{{until|be 1.16.20}} || [[光源方块]] ||
+|-
+|{{BlockSprite|Light Weighted Pressure Plate}} || JE：Light Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Light) || 重力压力板（轻型）{{until|be 1.16.20}} || [[测重压力板（轻质）]] ||
+|-
+|{{BlockSprite|Light Weighted Pressure Plate}} || JE：Light Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Light) || 测重压力板（轻型）{{upcoming|be 1.16.20}} || [[测重压力板（轻质）]] ||
+|-
+|{{BlockSprite|Lily Of The Valley}} || Lily Of The Valley || 幽谷百合 || [[铃兰]] ||
+|-
+|{{BlockSprite|Magma Block}} || Magma Block || 岩浆方块 || [[岩浆块]] ||
+|-
+|{{BlockSprite|Heads}} || Mob Head || 生物颅骨 || [[生物头颅]] ||
+|-
+|{{BlockSprite|Mossy Cobblestone}} || Mossy Cobblestone || 苔圆石 || [[苔石]] ||
+|-
+|{{BlockSprite|Mossy Cobblestone Slab}} || Mossy Cobblestone Slab || 苔圆石台阶 || [[苔石台阶]] ||
+|-
+|{{BlockSprite|Mushroom Stem}} || Mushroom Stem || 蘑菇茎 || [[蘑菇柄]] ||
+|-
+|{{ItemSprite|Nether Brick}} || Nether Brick || 地狱砖 || [[下界砖]] ||
+|-
+|{{BlockSprite|Nether Bricks}} || Nether Bricks || 地狱砖块 || [[下界砖块]] ||
+|-
+|{{BlockSprite|Nether Brick Wall}} || Nether Brick Wall || 地狱砖墙 || [[下界砖墙]] ||
+|-
+|{{BlockSprite|Nether Quartz Ore}} || Nether Quartz Ore || 地狱石英矿石 || [[下界石英矿石]] ||
+|-
+|{{BlockSprite|Nether Reactor Core}} || Nether Reactor Core || 地狱反应核 || [[下界反应核]] ||
+|-
+|{{BlockSprite|Nether Sprouts}} || Nether Sprouts || 地狱芽 || [[下界苗]] ||
+|-
+|{{BlockSprite|Nether Wart Block}} || Nether Wart Block || 地狱疣方块 || [[下界疣块]] ||
+|-
+|{{BlockSprite|Netherrack}} || Netherrack || 地狱岩 || [[下界岩]] ||
+|-
+|{{BlockSprite|Oak Button}} || Oak Button || 橡树按钮 || [[橡木按钮]] ||
+|-
+|{{BlockSprite|Oak Leaves}} || Oak Leaves || 橡树叶 || [[橡树树叶]] ||
+|-
+|{{BlockSprite|Oak Log}} || Oak Log || 橡树原木 || [[橡木原木]] ||
+|-
+|{{BlockSprite|Oak Pressure Plate}} || Oak Pressure Plate || 压力板 || [[橡木压力板]] ||
+|-
+|{{BlockSprite|Oak Sapling}} || Oak Sapling || 橡树苗 || [[橡树树苗]] ||
+|-
+|{{BlockSprite|Oak Trapdoor}} || Oak Trapdoor || 橡树活板门 || [[橡木活板门]] ||
+|-
+|{{BlockSprite|Observer}} || Observer || 观察者{{until|be 1.16.20}} || [[侦测器]] ||
+|-
+|{{BlockSprite|Polished Basalt}} || Polished Basalt || 平滑玄武岩 || [[磨制玄武岩]] ||
+|-
+|{{BlockSprite|Polished Blackstone Brick Slab}} || Polished Blackstone Brick Slab || 磨制黑石砖块台阶 || [[磨制黑石砖台阶]] ||
+|-
+|{{BlockSprite|Poppy}} || Poppy || 玫瑰 || [[虞美人]] ||
+|-
+|{{BlockSprite|Poster}} || Poster || 海报 || [[横幅]] ||
+|-
+|{{BlockSprite|Powered Rail}} || Powered Rail || 动力铁轨 || [[充能铁轨]] ||
+|-
+|{{BlockSprite|Purpur Block}} || Purpur Block || 紫珀方块 || [[紫珀块]] ||
+|-
+|{{BlockSprite|Purpur Block}} || Purpur Block || 錾制紫珀 || [[錾制紫珀块]] ||
+|-
+|{{BlockSprite|Purpur Pillar}} || Purpur Pillar || 紫珀柱子 || [[紫珀柱]] ||
+|-
+|{{BlockSprite|Quartz Pillar}} || Quartz Pillar || 竖纹石英块 || [[石英柱]] ||
+|-
+|{{BlockSprite|Red Mushroom}} || Red Mushroom || 红蘑菇 || [[红色蘑菇]] ||
+|-
+|{{BlockSprite|Red Mushroom Block}} || Red Mushroom Block || 红蘑菇方块 || [[红色蘑菇方块]] ||
+|-
+|{{BlockSprite|Red Nether Brick Slab}} || Red Nether Brick Slab || 红色地狱砖台阶 || [[红色下界砖台阶]] ||
+|-
+|{{BlockSprite|Red Nether Brick Wall}} || Red Nether Brick Wall || 红色地狱砖墙 || [[红色下界砖墙]] ||
+|-
+|{{BlockSprite|Red Nether Bricks}} || Red Nether Bricks || 红色地狱砖 || [[红色下界砖块]] ||
+|-
+|{{BlockSprite|Repeating Command Block}} || Repeating Command Block || 重复命令块{{until|be 1.16.20}} || [[循环型命令方块]] ||
+|-
+|{{BlockSprite|Repeating Command Block}} || Repeating Command Block || 重复命令方块{{upcoming|be 1.16.20}} || [[循环型命令方块]] ||
+|-
+|{{BlockSprite|Sandstone}} || Sandstone || 沙石 || [[砂岩]] ||
+|-
+|{{BlockSprite|Shulker Box}} || Shulker Box || 潜匿之贝箱子 || [[潜影盒]] ||
+|-
+|{{BlockSprite|Snow}} || JE：Snow <br>BE：Top Snow || 顶层雪 || [[雪]] ||
+|-
+|{{BlockSprite|Snow Block}} || JE：Snow Block <br>BE：Snow || 雪 || [[雪块]] ||
+|-
+|{{BlockSprite|Soul Fire}} || Soul Fire || 蓝火 || [[灵魂火]] ||
+|-
+|{{BlockSprite|Soul Soil}} || Soul Soil || 灵魂土壤 || [[灵魂土]] ||
+|-
+|{{BlockSprite|Spawner}} || Spawner || 刷怪箱 || [[刷怪笼]] ||
+|-
+|{{BlockSprite|Spruce Button}} || Spruce Button || 云杉按钮 || [[云杉木按钮]] ||
+|-
+|{{BlockSprite|Spruce Leaves}} || Spruce Leaves || 云杉叶 || [[云杉树叶]] ||
+|-
+|{{BlockSprite|Spruce Planks}} || Spruce Planks || 云杉树木板 || [[云杉木板]] ||
+|-
+|{{BlockSprite|Spruce Pressure Plate}} || Spruce Pressure Plate || 云杉压力板 || [[云杉木压力板]] ||
+|-
+|{{BlockSprite|Spruce Trapdoor}} || Spruce Trapdoor || 云杉活板门 || [[云杉木活板门]] ||
+|-
+|{{BlockSprite|Stairs}} || Stair || 阶梯 || [[楼梯]] ||
+|-
+|{{BlockSprite|Stone Button}} || Stone Button || 石头按钮 || [[石质按钮]] ||
+|-
+|{{BlockSprite|Stripped Crimson Hyphae}} || Stripped Crimson Hyphae || 去皮绯红菌丝 || [[去皮绯红菌核]] ||
+|-
+|{{BlockSprite|Stripped Crimson Stem}} || Stripped Crimson Stem || 去皮绯红茎 || [[去皮绯红菌柄]] ||
+|-
+|{{BlockSprite|Stripped Wood}} || Stripped Wood || 条形木头 || [[去皮木头]] ||
+|-
+|{{BlockSprite|Stripped Warped Hyphae}} || Stripped Warped Hyphae || 去皮扭曲菌丝 || [[去皮诡异菌核]] ||
+|-
+|{{BlockSprite|Stripped Warped Stem}} || Stripped Warped Stem || 去皮扭曲茎 || [[去皮诡异菌柄]] ||
+|-
+|{{BlockSprite|Structure Block}} || Structure Block || 建筑方块 || [[结构方块]] ||
+|-
+|{{BlockSprite|Structure Void}} || Structure Void || 建筑空隙{{until|be 1.16.20}} || [[结构空位]] ||
+|-
+|{{BlockSprite|Target}} || Target || 目标 || [[标靶]] ||
+|-
+|{{BlockSprite|Tube Coral Block}} || Tube Coral Block || 管珊瑚区块{{until|be 1.16.20}} || [[管珊瑚块]] ||
+|-
+|{{BlockSprite|Tube Coral Block}} || Tube Coral Block || 管珊瑚方块{{upcoming|be 1.16.20}} || [[管珊瑚块]] ||
+|-
+|{{BlockSprite|Warped Button}} || Warped Button || 扭曲按钮 || [[诡异木按钮]] ||
+|-
+|{{BlockSprite|Warped Fungus}} || Warped Fungus || 扭曲真菌 || [[诡异菌]] ||
+|-
+|{{BlockSprite|Warped Hyphae}} || Warped Hyphae || 扭曲菌丝 || [[诡异菌核]] ||
+|-
+|{{BlockSprite|Warped Nylium}} || Warped Nylium || 扭曲菌岩 || [[诡异菌岩]] ||
+|-
+|{{BlockSprite|Warped Planks}} || Warped Planks || 扭曲木板 || [[诡异木板]] ||
+|-
+|{{BlockSprite|Warped Pressure Plate}} || Warped Pressure Plate || 扭曲压力板 || [[诡异木压力板]] ||
+|-
+|{{BlockSprite|Warped Roots}} || Warped Roots || 扭曲根 || [[诡异菌索]] ||
+|-
+|{{BlockSprite|Warped Stem}} || Warped Stem || 扭曲茎 || [[诡异菌柄]] ||
+|-
+|{{BlockSprite|Warped Trapdoor}} || Warped Trapdoor || 扭曲活板门 || [[诡异木活板门]] ||
+|-
+|{{BlockSprite|Warped Wart Block}} || Warped Wart Block || 扭曲疣方块 || [[诡异疣块]] ||
+|-
+|{{BlockSprite|Wither Rose}} || Wither Rose || 枯萎的玫瑰 || [[凋零玫瑰]] ||
+|-
+|{{BlockSprite|Wood}} || Wood || 树林 || [[木头]] ||
+|}
+
+=== 物品 ===
+{| class="wikitable sortable" data-description="物品"
+!图标
+!英文
+!中文（基翻）
+!中文（标准译名）
+!注释
+|-
+|{{ItemSprite|Arrow of Fire Resistance}} || Arrow of Fire Resistance || 抗火箭 || [[箭|抗火之箭]] ||
+|-
+|{{ItemSprite|Arrow of Invisibility}} || Arrow of Invisibility || 隐身箭 || [[箭|隐身之箭]] ||
+|-
+|{{ItemSprite|Arrow of Leaping}} || Arrow of Leaping || 跳跃箭 || [[箭|跳跃之箭]] ||
+|-
+|{{ItemSprite|Arrow of Night Vision}} || Arrow of Night Vision || 夜视箭 || [[箭|夜视之箭]] ||
+|-
+|{{ItemSprite|Arrow of Poison}} || Arrow of Poison || 剧毒箭 || [[箭|剧毒之箭]] ||
+|-
+|{{ItemSprite|Arrow of Regeneration}} || Arrow of Regeneration || 生命恢复箭 || [[箭|再生之箭]] ||
+|-
+|{{ItemSprite|Arrow of Regeneration}} || Arrow of Regeneration || 生命恢复之箭 || [[箭|再生之箭]] ||
+|-
+|{{ItemSprite|Arrow of Slowness}} || Arrow of Slowness || 缓慢箭 || [[箭|迟缓之箭]] ||
+|-
+|{{ItemSprite|Arrow of Slowness}} || Arrow of Slowness || 缓慢之箭 || [[箭|迟缓之箭]] ||
+|-
+|{{ItemSprite|Arrow of Strength}} || Arrow of Strength || 力量箭 || [[箭|力量之箭]] ||
+|-
+|{{ItemSprite|Axe}} || Axe || 斧头 || [[斧]] ||
+|-
+|{{ItemSprite|Beetroot Seeds}} || Beetroot Seeds || 甜菜根种子 || [[甜菜种子]] ||
+|-
+|{{ItemSprite|Beetroot Soup}} || Beetroot Soup || 甜菜根汤 || [[甜菜汤]] ||
+|-
+|{{ItemSprite|Book and Quill}} || Book and Quill || 书和羽毛 || [[书与笔]] ||
+|-
+|{{ItemSprite|Brick}} || Brick || 砖 || [[红砖]] ||
+|-
+|{{ItemSprite|Bucket of Cod}} || Bucket of Cod || 桶装鳕鱼 || [[鳕鱼桶]] ||
+|-
+|{{ItemSprite|Bucket of Pufferfish}} || Bucket of Pufferfish || 桶装河豚 || [[河豚桶]] ||
+|-
+|{{ItemSprite|Bucket of Salmon}} || Bucket of Salmon || 桶装鲑鱼 || [[鲑鱼桶]] ||
+|-
+|{{ItemSprite|Bucket of Tropical Fish}} || Bucket of Tropical Fish || 桶装热带鱼 || [[热带鱼桶]] ||
+|-
+|{{ItemSprite|Carrot on a Stick}} || Carrot on a Stick || 萝卜钓竿 || [[胡萝卜钓竿]] ||
+|-
+|{{ItemSprite|Chainmail Boots}} || Chainmail Boots || 链甲靴子 || [[锁链靴子]] ||
+|-
+|{{ItemSprite|Chainmail Chestplate}} || Chainmail Chestplate || 链甲胸甲 || [[锁链胸甲]] ||
+|-
+|{{ItemSprite|Chainmail Helmet}} || Chainmail Helmet || 链甲头盔 || [[锁链头盔]] ||
+|-
+|{{ItemSprite|Chainmail Leggings}} || Chainmail Leggings || 链甲护腿 || [[锁链护腿]] ||
+|-
+|{{ItemSprite|Chorus Fruit}} || Chorus Fruit || 共鸣果 || [[紫颂果]] ||
+|-
+|{{ItemSprite|Clock}} || Clock || 钟 || [[时钟]] ||
+|-
+|{{ItemSprite|Cod Spawn Egg}} || JE：Cod Spawn Egg <br>BE：Spawn Cod || 鳕鱼蛋 || [[鳕鱼刷怪蛋]] ||
+|-
+|{{ItemSprite|Firework Rocket}} || Creeper || 爬行者状 || [[烟花火箭|苦力怕状]] ||
+|-
+|{{ItemSprite|Banner Pattern}} || Creeper Charge || 爬行者头像 || [[旗帜图案|苦力怕盾徽]] ||
+|-
+|{{ItemSprite|Dolphin Spawn Egg}} || JE：Dolphin Spawn Egg <br>BE：Spawn Dolphin || 海豚蛋 || [[海豚刷怪蛋]] ||
+|-
+|{{ItemSprite|Drowned Spawn Egg}} || JE：Drowned Spawn Egg <br>BE：Spawn Drowned || 水鬼蛋 || [[溺尸刷怪蛋]] ||
+|-
+|{{ItemSprite|Elytra}} || Elytra || 翅鞘 || [[鞘翅]] ||
+|-
+|{{ItemSprite|Map}} || Empty Locator Map || 空的定位器地图 || [[地图|空定位地图]] ||
+|-
+|{{ItemSprite|Empty Map}} || Empty Map || 空白地图 || [[空地图]] ||
+|-
+|{{ItemSprite|Enchanted Golden Apple}} || Enchanted Golden Apple || 附魔苹果 || [[附魔金苹果]] ||
+|-
+|{{ItemSprite|Firework Rocket}} || Firework || 渐隐 || [[烟花火箭|淡化]] ||
+|-
+|{{ItemSprite|Firework Rocket}} || Firework Rocket || 焰火 || [[烟花火箭]] ||
+|-
+|{{ItemSprite|Firework Rocket}} || Firework Rocket || 焰火火箭 || [[烟花火箭]] ||
+|-
+|{{ItemSprite|Firework Star}} || Firework Star || 焰火炸药 || [[烟火之星]] ||
+|-
+|{{ItemSprite|Firework Star}} || Firework Star || 焰火之星 || [[烟火之星]] ||
+|-
+|{{ItemSprite|Banner Pattern}} || Flower Charge || 花朵图案 || [[旗帜图案|花朵盾徽]] ||
+|-
+|{{ItemSprite|Glistering Melon Slice}} || JE：Glistering Melon Slice <br>BE：Glistering Melon || 闪烁的西瓜 || [[闪烁的西瓜片]] ||
+|-
+|{{ItemSprite|Glowstone Dust}} || Glowstone Dust || 萤石粉 || [[荧石粉]] ||
+|-
+|{{ItemSprite|Golden Carrot}} || Golden Carrot || 金萝卜 || [[金胡萝卜]] ||
+|-
+|{{ItemSprite|Golden Horse Armor}} || Golden Horse Armor || 黄金马铠 || [[金马铠]] ||
+|-
+|{{ItemSprite|Hoe}} || Hoe || 锄头 || [[锄]] ||
+|-
+|{{ItemSprite|Honey Bottle}} || Honey Bottle || 蜂蜜瓶子 || [[蜂蜜瓶]] ||
+|-
+|{{ItemSprite|Honeycomb}} || Honeycomb || 蜂房 || [[蜜脾]] ||
+|-
+|{{ItemSprite|Lava Bucket}} || Lava Bucket || 岩浆桶 || [[熔岩桶]] ||
+|-
+|{{ItemSprite|Leather Horse Armor}} || Leather Horse Armor || 皮马铠 || [[皮革马铠]] ||
+|-
+|{{ItemSprite|Leather Tunic}} || Leather Tunic || 皮革胸甲 || [[皮革外套]] ||
+|-
+|{{ItemSprite|Lingering Potion}} || Lingering Potion || 滞留的 || [[滞留药水|滞留型]] || 【一系列】
+|-
+|{{ItemSprite|Lodestone Compass}} || Lodestone Compass || 磁石指南针 || [[磁石指针]] ||
+|-
+|{{ItemSprite|Melon Slice}} || JE：Melon Slice <br>BE：Melon || 西瓜 || [[西瓜片]] ||
+|-
+|{{ItemSprite|Milk Bucket}} || JE：Milk Bucket <br>BE：Milk || 牛奶 || [[牛奶桶]] ||
+|-
+|{{ItemSprite|Nether Quartz}} || Nether Quartz || 地狱石英 || [[下界石英]] ||
+|-
+|{{ItemSprite|Nether Star}} || Nether Star || 地狱之星 || [[下界之星]] ||
+|-
+|{{ItemSprite|Netherite Axe}} || Netherite Axe || 下界合金斧头 || [[下界合金斧]] ||
+|-
+|{{ItemSprite|Netherite Hoe}} || Netherite Hoe || 下界合金锄头 || [[下界合金锄]] ||
+|-
+|{{ItemSprite|Ocean Explorer Map}} || Ocean Explorer Map || 海洋探险者地图 || [[海洋探险家地图]] ||
+|-
+|{{ItemSprite|Phantom Membrane}} || Phantom Membrane || 幻影薄膜 || [[幻翼膜]] ||
+|-
+|{{ItemSprite|Popped Chorus Fruit}} || Popped Chorus Fruit || 爆裂共鸣果 || [[爆裂紫颂果]] ||
+|-
+|{{ItemSprite|Portfolio}} || Portfolio || 个人资料 || [[公文包]] ||
+|-
+|{{ItemSprite|Potion of Regeneration}} || Potion of Regeneration || 生命恢复药水 || [[再生药水]] ||
+|-
+|{{ItemSprite|Potion of Slow Falling}} || Potion of Slow Falling || 缓慢下降药水 || [[缓降药水]] ||
+|-
+|{{ItemSprite|Potion of Slowness}} || Potion of Slowness || 缓慢药水 || [[迟缓药水]] ||
+|-
+|{{ItemSprite|Potion of The Turtle Master}} || Potion of The Turtle Master || 海龟大师药水 || [[神龟药水]] ||
+|-
+|{{ItemSprite|Pufferfish Spawn Egg}} || JE：Pufferfish Spawn Egg <br>BE：Spawn Pufferfish || 河豚蛋 || [[河豚刷怪蛋]] ||
+|-
+|{{ItemSprite|Rabbit's Foot}} || Rabbit's Foot || 兔子腿 || [[兔子脚]] ||
+|-
+|{{ItemSprite|Music Discs}} || Record || 记录{{until|be 1.16.20}} || [[唱片]] ||
+|-
+|{{ItemSprite|Redstone Dust}} || Redstone Dust || 红石 || [[红石粉]] ||
+|-
+|{{ItemSprite|Salmon Spawn Egg}} || JE：Salmon Spawn Egg <br>BE：Spawn Salmon || 鲑鱼蛋 || [[鲑鱼刷怪蛋]] ||
+|-
+|{{ItemSprite|Shield}} || Shield || 护盾 || [[盾牌]] ||
+|-
+|{{ItemSprite|Shulker Shell}} || Shulker Shell || 潜匿之贝壳 || [[潜影壳]] ||
+|-
+|{{ItemSprite|Banner Pattern}} || Skull Charge || 头颅头像 || [[旗帜图案|头颅盾徽]] ||
+|-
+|{{ItemSprite|Banner Pattern}} || Snout || 鼻子 || [[旗帜图案|猪鼻]] ||
+|-
+|{{ItemSprite|Spawn Egg}} || Spawn Egg || 生物蛋 || [[刷怪蛋]] ||
+|-
+|{{ItemSprite|Splash Potion}} || Splash Potions || 喷溅的 || [[喷溅药水|喷溅型]] || 【一系列】
+|-
+|{{ItemSprite|Steak}} || Steak || 熟牛肉 || [[牛排]] ||
+|-
+|{{ItemSprite|String}} || String || 蛛丝 || [[线]] ||
+|-
+|{{ItemSprite|Suspicious Stew}} || Suspicious Stew || 可疑的炖肉 || [[迷之炖菜]] ||
+|-
+|{{ItemSprite|Sweet Berries}} || Sweet Berries || 甜莓 || [[甜浆果]] ||
+|-
+|{{ItemSprite|Tropical Fish Spawn Egg}} || JE：Tropical Fish Spawn Egg <br>BE：Spawn Tropical Fish || 热带鱼蛋 || [[热带鱼刷怪蛋]] ||
+|-
+|{{ItemSprite|Warped Fungus on a Stick}} || Warped Fungus on a Stick || 扭曲真菌钓竿 || [[诡异菌钓竿]] ||
+|-
+|{{ItemSprite|Wheat}} || JE：Wheat Seeds <br>BE：Seeds || 种子 || [[小麦种子]] ||
+|-
+|{{ItemSprite|Woodland Explorer Map}} || Woodland Explorer Map || 森林探险者地图 || [[林地探险家地图]] ||
+|}
+
+=== 实体 ===
+{| class="wikitable sortable" data-description="实体"
+!图标
+!英文
+!中文（基翻）
+!中文（标准译名）
+!注释
+|-
+|{{EntitySprite|Acacia Boat}} || Acacia Boat || 金合欢船 || [[金合欢木船]] ||
+|-
+| || Area Effect Cloud || 区域效果云雾 || [[喷溅药水|区域效果云]] ||
+|-
+|{{EntitySprite|Birch Boat}} || Birch Boat || 桦木船 || [[白桦木船]] ||
+|-
+|{{EntitySprite|Camera}} || Camera || 三脚架摄像机 || [[相机]] ||
+|-
+|{{EntitySprite|Creeper}} || Creeper || 爬行者 || [[苦力怕]] ||
+|-
+|{{EntitySprite|Dark Oak Boat}} || Dark Oak Boat || 黑橡木船 || [[深色橡木船]] ||
+|-
+|{{EntitySprite|Drowned}} || Drowned || 水鬼 || [[溺尸]] ||
+|-
+|{{EntitySprite|Elder Guardian}} || Elder Guardian || 老守卫者{{until|be 1.16.20}} || [[远古守卫者]] ||
+|-
+|{{EntitySprite|Falling Blocks}} || Falling Blocks || 掉落的方块 || [[下落的方块]] ||
+|-
+|{{EntitySprite|Fireball}} || Dragon Fireball || 巨龙火球 || [[末影龙火球]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Betty || 贝蒂鱼 || [[热带鱼|背蒂鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Spotty || 斑点鱼 || [[热带鱼|多斑鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Blockfish || 方块鱼 || [[热带鱼|方身鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Flopper || 翻翻鱼 || [[热带鱼|飞翼鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Yellowtail Parrot || 黄尾鹦嘴鱼 || [[热带鱼|高鳍鹦嘴鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Black Tang || 长鼻高鳍刺尾鱼 || [[热带鱼|黑刺尾鲷鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Red Snapper || 红鲷鱼 || [[热带鱼|红边笛鲷]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Red Lipped Blenny || 红唇鳚鱼 || [[热带鱼|红唇真蛇鳚]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Butterfly Fish || 蝶鱼 || [[热带鱼|蝴蝶鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Yellow Tang || 黄高鳍刺尾鱼 || [[热带鱼|黄刺尾鲷]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Snooper || 刺探者 || [[热带鱼|窥伺者]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Blue Dory || 拟刺尾鲷 || [[热带鱼|蓝色多莉]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Chichlid || 慈鲷 || [[热带鱼|丽鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Chichlid || 须鲷 || [[热带鱼|拟羊鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || SunStreak || 阳光条纹鱼 || [[热带鱼|日纹鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Glitter || 闪光鱼 || [[热带鱼|闪鳞鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Kob || 科布鱼 || [[热带鱼|石首鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Dasher || 猛冲者 || [[热带鱼|速跃者]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Clayfish || 粘土鱼 || [[热带鱼|陶鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Stripey || 条纹鱼 || [[热带鱼|条纹鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Cotton Candy Betta || 棉花糖斗鱼 || [[热带鱼|五彩搏鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Brinely || 布林利鱼 || [[热带鱼|咸水鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Dottyback || 拟雀鲷 || [[热带鱼|绣雀鲷]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Anemone || 海葵 || [[热带鱼|海葵鱼]] ||
+|-
+|{{ItemSprite|Bucket Of Tropical Fish}} || Red Cichlid || 红慈鲷 || [[热带鱼|红丽鱼]] || 
+|-
+|{{EntitySprite|Husk}} || Husk || 剥皮者 || [[尸壳]] ||
+|-
+|{{EntitySprite|Husk}} || Husk || 尸傀 || [[尸壳]] ||
+|-
+|{{EntitySprite|Llama Spit}} || Llama Spit || 羊驼口水 || [[羊驼唾沫]] ||
+|-
+|{{EntitySprite|Minecart With Command Block}} || Minecart With Command Block || 带命令方块的矿车{{upcoming|be 1.16.20}} || [[命令方块矿车]] ||
+|-
+|{{EntitySprite|Minecart With Command Block}} || Minecart With Command Block || 带有命令块的《我的世界》{{until|be 1.16.20}} || [[命令方块矿车]] ||
+|-
+|{{EntitySprite|Minecart With Furnace}} || Minecart With Furnace || 带熔炉的矿车 || [[动力矿车]] ||
+|-
+|{{EntitySprite|Mule}} || Mule || 骡子 || [[骡]] ||
+|-
+|{{EntitySprite|Phantom}} || Phantom || 幻影 || [[幻翼]] ||
+|-
+|{{EntitySprite|Pillager}} || Pillager || 劫掠者 || [[掠夺者]] ||
+|-
+|{{EntitySprite|Ravager}} || Ravager || 掠夺兽 || [[劫掠兽]] ||
+|-
+|{{EntitySprite|Ravager}} || Illager Beast || 乡村野兽 || [[灾厄之兽]] || {{until|be 1.11.0}}
+|-
+|{{EntitySprite|Shulker}} || Shulker || 潜匿之贝 || [[潜影贝]] ||
+|-
+|{{EntitySprite|Shulker Bullet}} || Shulker Bullet || 潜匿之贝子弹 || [[潜影贝|潜影贝子弹]] ||
+|-
+|{{EntitySprite|Tipped Arrow}} || Tipped Arrow || 锐箭{{until|be 1.16.20}} || [[药箭]] ||
+|-
+|{{EntitySprite|Vex}} || Vex || 威克斯 || [[恼鬼]] ||
+|-
+|{{EntitySprite|Villager}} || Armorer || 盔甲商 || [[盔甲匠]] ||
+|-
+|{{EntitySprite|Villager}} || Cartographer || 制图者 || [[制图师]] ||
+|-
+|{{EntitySprite|Villager}} || Tool Smith || 工具商 || [[工具匠]] ||
+|-
+|{{EntitySprite|Villager}} || Weapon Smith || 武器商 || [[武器匠]] ||
+|-
+|{{EntitySprite|Villager}} || JE：Nitwit <br>BE：Unskilled Villager || 不熟练的村民 || [[村民|傻子]] ||
+|-
+|{{EntitySprite|Wither Skull}} || Wither Skull || 凋灵骷髅头 || [[凋灵之首]] ||
+|-
+|{{EntitySprite|Zombie Villager}} || Zombie Villager || 怪人村民 || [[僵尸村民]] ||
+|}
+
+=== 其他 ===
+{| class="wikitable sortable" data-description="其他"
+!英文
+!中文（基翻）
+!中文（标准译名）
+!注释
+|-
+| Primary Effect || 主要效果 || 主要效果 || GUI
+|-
+| Primary Effect || 主要的 || 主要效果 || GUI
+|-
+| Secondary Effect || 次要效果 || 辅助效果 || GUI
+|-
+| Secondary Effect || 辅助 || 辅助效果 || GUI
+|-
+| Flat || 平淡的 || [[超平坦]] || GUI
+|-
+| Old || 旧的 || 有限 || GUI
+|-
+| Tile Drops || 区块掉落 || 方块掉落 || GUI
+|-
+| Texture Pack || 纹理包 || [[材质包]] || GUI
+|-
+| Bad Omen || 凶兆 || [[不祥之兆]] || 魔咒
+|-
+| Curse of Binding || 绑定的诅咒 || [[绑定诅咒]] || 魔咒
+|-
+| Curse of Vanishing || 消失的诅咒 || [[消失诅咒]] || 魔咒
+|-
+| Frost Walker || 寒冰行者 || [[冰霜行者]] || 魔咒
+|-
+| Mending || 正在治愈{{until|be 1.16.20}} || [[经验修补]] || 魔咒
+|-
+| Multishot || 多重箭 || [[多重射击]] || 魔咒
+|-
+| Quick Charge || 快速冲锋{{until|be 1.16.20}} || [[快速装填]] || 魔咒
+|-
+| Raid || 劫掠 || [[袭击]] || 事件
+|-
+| Fence || 围墙 || [[栅栏]] || 物品组
+|-
+| Fence Gate || 围墙门 || [[栅栏门]] || 物品组
+|-
+| Stairs || 阶梯 || [[楼梯]] || 物品组
+|-
+| Stone Brick || 装饰石头 || [[石砖]] || 物品组
+|-
+| Grass || 地被植物 || [[植物|陆生植物]] || 物品组
+|-
+| Horse Armor || 马甲 || [[马铠]] || 物品组
+|-
+| Shulker Box || 潜匿之贝箱子 || [[潜影盒]] || 物品组
+|-
+| Record || 记录 || [[唱片]] || 物品组
+|-
+| Firework || 焰火 || [[烟花火箭]] || 物品组
+|-
+| Firework Stars || 焰火炸药 || [[烟火之星]] || 物品组
+|-
+| Coral || 珊瑚区块{{until|be 1.16.20}} || [[珊瑚块]] || 物品组
+|-
+| Coral || 珊瑚方块{{upcoming|be 1.16.20}} || [[珊瑚块]] || 物品组
+|-
+| Spawn Egg || 生物蛋 || [[刷怪蛋]] || 物品组
+|-
+| Skull || 生物颅骨 || [[生物头颅]] || 物品组
+|-
+| Conduit Power || 导管能量{{until|be 1.16.20}} || [[潮涌能量]] || 状态效果
+|-
+| Conduit Power || 潮涌核心能量{{upcoming|be 1.16.20}} || [[潮涌能量]] || 状态效果
+|-
+| Fire Resistance || 抗火 || [[防火]] || 状态效果
+|-
+| Haste || 急速的 || [[急迫]] || 状态效果
+|-
+| Jump Boost || 跳跃增强 || [[跳跃提升]] || 状态效果
+|-
+| Mining Fatigue || 开采疲劳 || [[挖掘疲劳]] || 状态效果
+|-
+| Nausea || 反胃的 || [[反胃]] || 状态效果
+|-
+| Poison || 剧毒 || [[中毒]] || 状态效果
+|-
+| Slow Falling || 缓慢下降 || [[缓降]] || 状态效果
+|-
+| Wither || 凋灵 || [[凋零]] || 状态效果
+|-
+| Boron Trioxide || 三氧化硼 || [[化合物|三氧化二硼]] || 教育版
+|-
+| Iron Sulfide || 硫化铁 || [[化合物|硫化亚铁]] || 教育版
+|-
+| Tungsten Chloride || 氯化钨 || [[化合物|六氯化钨]] || 教育版
+|-
+| Blue Torch || 蓝色火炬 || [[蓝色火把]] || 教育版
+|-
+| Green Torch || 绿色火炬 || [[绿色火把]] || 教育版
+|-
+| Purple Torch || 紫色火炬 || [[紫色火把]] || 教育版
+|-
+| Red Torch || 红色火炬 || [[红色火把]] || 教育版
+|-
+| Underwater Torches || 水下火炬 || [[水下火把]] || 教育版
+|}
