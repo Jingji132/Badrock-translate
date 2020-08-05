@@ -350,8 +350,6 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Snow Block}} || JE：Snow Block <br>BE：Snow || 雪 || [[雪块]] ||
 |-
-|{{BlockSprite|Soul Fire}} || Soul Fire || 蓝火 || [[灵魂火]] ||
-|-
 |{{BlockSprite|Soul Soil}} || Soul Soil || 灵魂土壤 || [[灵魂土]] ||
 |-
 |{{BlockSprite|Spawner}} || Spawner || 刷怪箱 || [[刷怪笼]] ||
@@ -481,6 +479,8 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Banner Pattern}} || Creeper Charge || 爬行者头像 || [[旗帜图案|苦力怕盾徽]] ||
 |-
+|{{ItemSprite|Diamond Horse Armor}} || Diamond Horse Armor || 钻石马甲 || [[钻石马铠]] ||
+|-
 |{{ItemSprite|Dolphin Spawn Egg}} || JE：Dolphin Spawn Egg <br>BE：Spawn Dolphin || 海豚蛋 || [[海豚刷怪蛋]] ||
 |-
 |{{ItemSprite|Drowned Spawn Egg}} || JE：Drowned Spawn Egg <br>BE：Spawn Drowned || 水鬼蛋 || [[溺尸刷怪蛋]] ||
@@ -511,7 +511,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Golden Carrot}} || Golden Carrot || 金萝卜 || [[金胡萝卜]] ||
 |-
-|{{ItemSprite|Golden Horse Armor}} || Golden Horse Armor || 黄金马铠 || [[金马铠]] ||
+|{{ItemSprite|Golden Horse Armor}} || Golden Horse Armor || 金马甲 || [[金马铠]] ||
 |-
 |{{ItemSprite|Hoe}} || Hoe || 锄头 || [[锄]] ||
 |-
@@ -519,9 +519,11 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Honeycomb}} || Honeycomb || 蜂房 || [[蜜脾]] ||
 |-
+|{{ItemSprite|Iron Horse Armor}} || Iron Horse Armor || 铁马甲 || [[铁马铠]] ||
+|-
 |{{ItemSprite|Lava Bucket}} || Lava Bucket || 岩浆桶 || [[熔岩桶]] ||
 |-
-|{{ItemSprite|Leather Horse Armor}} || Leather Horse Armor || 皮马铠 || [[皮革马铠]] ||
+|{{ItemSprite|Leather Horse Armor}} || Leather Horse Armor || 皮马甲 || [[皮革马铠]] ||
 |-
 |{{ItemSprite|Leather Tunic}} || Leather Tunic || 皮革胸甲 || [[皮革外套]] ||
 |-
@@ -672,7 +674,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Bucket Of Tropical Fish}} || Anemone || 海葵 || [[热带鱼|海葵鱼]] ||
 |-
-|{{ItemSprite|Bucket Of Tropical Fish}} || Red Cichlid || 红慈鲷 || [[热带鱼|红丽鱼]] || 
+|{{ItemSprite|Bucket Of Tropical Fish}} || Red Cichlid || 红慈鲷 || [[热带鱼|红丽鱼]] ||
 |-
 |{{EntitySprite|Husk}} || Husk || 剥皮者 || [[尸壳]] ||
 |-
@@ -689,6 +691,8 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |{{EntitySprite|Mule}} || Mule || 骡子 || [[骡]] ||
 |-
 |{{EntitySprite|Phantom}} || Phantom || 幻影 || [[幻翼]] ||
+|-
+|{{EntitySprite|Piglin Brute}} || Piglin Brute || 残暴猪灵 || [[猪灵蛮兵]] ||
 |-
 |{{EntitySprite|Pillager}} || Pillager || 劫掠者 || [[掠夺者]] ||
 |-
@@ -717,6 +721,29 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |{{EntitySprite|Wither Skull}} || Wither Skull || 凋灵骷髅头 || [[凋灵之首]] ||
 |-
 |{{EntitySprite|Zombie Villager}} || Zombie Villager || 怪人村民 || [[僵尸村民]] ||
+|}
+
+=== 结构 ===
+{| class="wikitable sortable" data-description="结构"
+!图标
+!英文
+!中文（基翻）
+!中文（标准译名）
+!注释
+|-
+| {{EntitySprite|End City}} || End City || 末地之城 || [[末地城]] ||
+|-
+| {{EntitySprite|Nether Fortress}} || Nether Fortress || 地狱堡垒 || [[下界要塞]] ||
+|-
+| {{EntitySprite|Woodland Mansion}} || Woodland Mansion || 林地宅邸 || [[林地府邸]] ||
+|-
+| {{EntitySprite|Ocean Monument}} || Ocean Monument || 海底遗迹 || [[海底神殿]] ||
+|-
+| {{EntitySprite|Ocean Ruins}} || Ocean Ruins || 海洋废墟 || [[海底废墟]] ||
+|-
+| {{EntitySprite|Pillager Outpost}} || Pillager Outpost || 劫掠者前哨 || [[掠夺者前哨站]] ||
+|-
+| {{EntitySprite|Ruined Portal}} || Ruined Portal || 破坏的传送门 || [[废弃传送门]] ||
 |}
 
 === 其他 ===
