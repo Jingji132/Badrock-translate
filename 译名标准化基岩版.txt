@@ -118,7 +118,7 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{BlockSprite|Grass}} || Grass || 地被植物 || [[草]] ||
 |-
-|{{BlockSprite|Dirt Path}} || Dirt Path || 泥土小径 || [[土径]] ||{{upcoming|be 1.16.200}}}
+|{{BlockSprite|Grass Path}} || Dirt Path || 泥土小径 || [[土径]] ||{{upcoming|be 1.16.200}}}
 |-
 |{{BlockSprite|Hay Bale}} || Hay Bale || 干草捆 || [[干草块]] ||
 |-
