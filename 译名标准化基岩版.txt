@@ -12,16 +12,18 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 由于相关问题汇报在[[漏洞追踪器]]一直处于无人响应的状态，目前由Ff98sha重新整理了一份漏洞报告{{bug|MCPE-61166}}，希望Mojang对全语言的基岩版翻译流程进行修改，目前该漏洞报告已有超过100人投票。
 
 == 对照表 ==
-以下是一些在基岩版游戏中难以理解的翻译和其对应Java版译名，并非完整的差异列表。
+以下是一些在基岩版游戏中难以理解的翻译和其对应Java版简体中文译名，并非完整的差异列表。
+
+The following table displays some of the major mistakes in Bedrock Edition that need urgent fix, not a complete list of the differences.
 
 '''注意：在Wiki内''切勿''使用基岩版译名进行编辑。'''
 
 === 方块 ===
 {| class="wikitable sortable" data-description="方块"
-!图标
-!英文
-!中文（基翻）
-!中文（标准译名）
+!图标/Icon
+!英文/English
+!中文（基翻）/BE Translation
+!中文（标准译名）/Correct Translation
 !注释
 |-
 |{{BlockSprite|Acacia Button}} || Acacia Button || 金合欢按钮 || [[金合欢木按钮]] ||
@@ -62,9 +64,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚 || [[脑纹珊瑚]] ||
 |-
-|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚区块{{until|be 1.16.20}} || [[脑纹珊瑚块]] ||
-|-
-|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚方块{{upcoming|be 1.16.20}} || [[脑纹珊瑚块]] ||
+|{{BlockSprite|Brain Coral Block}} || Brain Coral Block || 脑珊瑚方块 || [[脑纹珊瑚块]] ||
 |-
 |{{BlockSprite|Brain Coral Fan}} || Brain Coral Fan || 脑珊瑚扇 || [[脑纹珊瑚扇]] ||
 |-
@@ -72,9 +72,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚 || [[气泡珊瑚]] ||
 |-
-|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚区块{{until|be 1.16.20}} || [[气泡珊瑚块]] ||
-|-
-|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚方块{{upcoming|be 1.16.20}} || [[气泡珊瑚块]] ||
+|{{BlockSprite|Bubble Coral Block}} || Bubble Coral Block || 泡珊瑚方块 || [[气泡珊瑚块]] ||
 |-
 |{{BlockSprite|Bubble Coral Fan}} || Bubble Coral Fan || 泡珊瑚扇 || [[气泡珊瑚扇]] ||
 |-
@@ -82,9 +80,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Chain}} || Chain || 链 || [[锁链]] ||
 |-
-|{{BlockSprite|Chain Command Block}} || Chain Command Block || 链命令块{{until|be 1.16.20}} || [[连锁型命令方块]] ||
-|-
-|{{BlockSprite|Chain Command Block}} || Chain Command Block || 链命令方块{{upcoming|be 1.16.20}} || [[连锁型命令方块]] ||
+|{{BlockSprite|Chain Command Block}} || Chain Command Block || 链命令方块 || [[连锁型命令方块]] ||
 |-
 |{{BlockSprite|Chiseled Nether Bricks}} || Chiseled Nether Bricks || 錾制地狱砖 || [[錾制下界砖块]] ||
 |-
@@ -96,15 +92,9 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Cocoa Beans}} || Cocoa Beans || 可可 || [[可可豆]] ||
 |-
-|{{BlockSprite|Command Block}} || Command Block || 命令块{{until|be 1.16.20}} || [[命令方块]] ||
-|-
 |{{BlockSprite|Composter}} || Composter || 堆肥箱 || [[堆肥桶]] ||
 |-
-|{{BlockSprite|Conduit}} || Conduit || 导管{{until|be 1.16.20}} || [[潮涌核心]] ||
-|-
-|{{BlockSprite|Coral Blocks}} || Coral Block || 珊瑚区块{{until|be 1.16.20}} || [[珊瑚块]] ||
-|-
-|{{BlockSprite|Coral Blocks}} || Coral Block || 珊瑚方块{{upcoming|be 1.16.20}} || [[珊瑚块]] ||
+|{{BlockSprite|Coral Blocks}} || Coral Block || 珊瑚方块 || [[珊瑚块]] ||
 |-
 |{{BlockSprite|Cracked Nether Bricks}} || Cracked Nether Bricks || 裂地狱砖 || [[裂纹下界砖块]] ||
 |-
@@ -128,9 +118,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Dark Oak Button}} || Dark Oak Button || 深色橡树按钮 || [[深色橡木按钮]] ||
 |-
-|{{BlockSprite|Dark Oak Leaves}} || Dark Oak Leaves || 深色像树叶{{until|be 1.16.20}} || [[深色橡树树叶]] ||
-|-
-|{{BlockSprite|Dark Oak Leaves}} || Dark Oak Leaves || 深色橡树叶{{upcoming|be 1.16.20}} || [[深色橡树树叶]] ||
+|{{BlockSprite|Dark Oak Leaves}} || Dark Oak Leaves || 深色橡树叶 || [[深色橡树树叶]] ||
 |-
 |{{BlockSprite|Dark Oak Log}} || Dark Oak Log || 深色橡树原木 || [[深色橡木原木]] ||
 |-
@@ -144,17 +132,13 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚 || [[失活的脑纹珊瑚]] ||
 |-
-|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚区块{{until|be 1.16.20}} || [[失活的脑纹珊瑚块]] ||
-|-
-|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚方块{{upcoming|be 1.16.20}} || [[失活的脑纹珊瑚块]] ||
+|{{BlockSprite|Dead Brain Coral Block}} || Dead Brain Coral Block || 死亡脑珊瑚方块 || [[失活的脑纹珊瑚块]] ||
 |-
 |{{BlockSprite|Dead Brain Coral Fan}} || Dead Brain Coral Fan || 死亡脑珊瑚扇 || [[失活的脑纹珊瑚扇]] ||
 |-
 |{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚 || [[失活的气泡珊瑚]] ||
 |-
-|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚区块{{until|be 1.16.20}} || [[失活的气泡珊瑚块]] ||
-|-
-|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚方块{{upcoming|be 1.16.20}} || [[失活的气泡珊瑚块]] ||
+|{{BlockSprite|Dead Bubble Coral Block}} || Dead Bubble Coral Block || 死亡泡珊瑚方块 || [[失活的气泡珊瑚块]] ||
 |-
 |{{BlockSprite|Dead Bubble Coral Fan}} || Dead Bubble Coral Fan || 死亡泡珊瑚扇 || [[失活的气泡珊瑚扇]] ||
 |-
@@ -162,39 +146,29 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚 || [[失活的火珊瑚]] ||
 |-
-|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚区块{{until|be 1.16.20}} || [[失活的火珊瑚块]] ||
-|-
-|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚方块{{upcoming|be 1.16.20}} || [[失活的火珊瑚块]] ||
+|{{BlockSprite|Dead Fire Coral Block}} || Dead Fire Coral Block || 死亡火珊瑚方块 || [[失活的火珊瑚块]] ||
 |-
 |{{BlockSprite|Dead Fire Coral Fan}} || Dead Fire Coral Fan || 死亡火珊瑚扇 || [[失活的火珊瑚扇]] ||
 |-
 |{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚 || [[失活的鹿角珊瑚]] ||
 |-
-|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚区块{{until|be 1.16.20}} || [[失活的鹿角珊瑚块]] ||
-|-
-|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚方块{{upcoming|be 1.16.20}} || [[失活的鹿角珊瑚块]] ||
+|{{BlockSprite|Dead Horn Coral Block}} || Dead Horn Coral Block || 死亡角珊瑚方块 || [[失活的鹿角珊瑚块]] ||
 |-
 |{{BlockSprite|Dead Horn Coral Fan}} || Dead Horn Coral Fan || 死亡角珊瑚扇 || [[失活的鹿角珊瑚扇]] ||
 |-
 |{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚 || [[失活的管珊瑚]] ||
 |-
-|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚区块{{until|be 1.16.20}} || [[失活的管珊瑚块]] ||
-|-
-|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚方块{{upcoming|be 1.16.20}} || [[失活的管珊瑚块]] ||
+|{{BlockSprite|Dead Tube Coral Block}} || Dead Tube Coral Block || 死亡管珊瑚方块 || [[失活的管珊瑚块]] ||
 |-
 |{{BlockSprite|Dead Tube Coral Fan}} || Dead Tube Coral Fan || 死亡管珊瑚扇 || [[失活的管珊瑚扇]] ||
 |-
 |{{BlockSprite|Deny}} || Deny || 拒绝 || [[拒绝方块]] ||
 |-
-|{{BlockSprite|Dried Kelp Block}} || Dried Kelp Block || 干海带区块{{until|be 1.16.20}} || [[干海带块]] ||
-|-
-|{{BlockSprite|Dried Kelp Block}} || Dried Kelp Block || 干海带方块{{upcoming|be 1.16.20}} || [[干海带块]] ||
+|{{BlockSprite|Dried Kelp Block}} || Dried Kelp Block || 干海带方块 || [[干海带块]] ||
 |-
 |{{ItemSprite|End Crystal}} || End Crystal || 末地水晶 || [[末影水晶]] ||
 |-
 |{{BlockSprite|End Portal Frame}} || End Portal Frame || 末地传送门 || [[末地传送门框架]] ||
-|-
-|{{BlockSprite|End Rod}} || End Rod || 末地棒{{until|be 1.16.20}} || [[末地烛]] ||
 |-
 |{{BlockSprite|Farmland}} || Farmland || 农田 || [[耕地]] ||
 |-
@@ -204,9 +178,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Fence Gates}} || Fence Gate || 围墙大门 || [[栅栏门]] || 【一系列】
 |-
-|{{BlockSprite|Fire Coral Block}} || Fire Coral Block || 火珊瑚区块{{until|be 1.16.20}} || [[火珊瑚块]] ||
-|-
-|{{BlockSprite|Fire Coral Block}} || Fire Coral Block || 火珊瑚方块{{upcoming|be 1.16.20}} || [[火珊瑚块]] ||
+|{{BlockSprite|Fire Coral Block}} || Fire Coral Block || 火珊瑚方块 || [[火珊瑚块]] ||
 |-
 |{{BlockSprite|Fletching Table}} || Fletching Table || 造箭台 || [[制箭台]] ||
 |-
@@ -222,9 +194,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Hay Bale}} || Hay Bale || 干草捆 || [[干草块]] ||
 |-
-|{{BlockSprite|Heavy Weighted Pressure Plate}} || JE：Heavy Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Heavy) || 重力压力板（重型）{{until|be 1.16.20}} || [[测重压力板（重质）]] ||
-|-
-|{{BlockSprite|Heavy Weighted Pressure Plate}} || JE：Heavy Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Heavy) || 测重压力板（重型）{{upcoming|be 1.16.20}} || [[测重压力板（重质）]] ||
+|{{BlockSprite|Heavy Weighted Pressure Plate}} || JE：Heavy Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Heavy) || 测重压力板（重型) || [[测重压力板（重质）]] ||
 |-
 |{{BlockSprite|Honey Block}} || Honey Block || 蜂蜜方块 || [[蜂蜜块]] ||
 |-
@@ -232,9 +202,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚 || [[鹿角珊瑚]] ||
 |-
-|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚区块{{until|be 1.16.20}} || [[鹿角珊瑚块]] ||
-|-
-|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚方块{{upcoming|be 1.16.20}} || [[鹿角珊瑚块]] ||
+|{{BlockSprite|Horn Coral Block}} || Horn Coral Block || 角珊瑚方块 || [[鹿角珊瑚块]] ||
 |-
 |{{BlockSprite|Horn Coral Fan}} || Horn Coral Fan || 角珊瑚扇 || [[鹿角珊瑚扇]] ||
 |-
@@ -250,8 +218,6 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Iron Trapdoor}} || Iron Trapdoor || 铁陷阱门 || [[铁活板门]] ||
 |-
-|{{BlockSprite|Jigsaw Block}} || Jigsaw Block || 线锯方块{{until|be 1.16.20}} || [[拼图方块]] ||
-|-
 |{{BlockSprite|Jungle Button}} || Jungle Button || 丛林按钮 || [[丛林木按钮]] ||
 |-
 |{{BlockSprite|Jungle Planks}} || Jungle Planks || 丛林树木板 || [[丛林木板]] ||
@@ -262,11 +228,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Lava}} || Lava || 岩浆 || [[熔岩]] ||
 |-
-|{{BlockSprite|Light Block}} || Light Block || 光明方块{{until|be 1.16.20}} || [[光源方块]] ||
-|-
-|{{BlockSprite|Light Weighted Pressure Plate}} || JE：Light Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Light) || 重力压力板（轻型）{{until|be 1.16.20}} || [[测重压力板（轻质）]] ||
-|-
-|{{BlockSprite|Light Weighted Pressure Plate}} || JE：Light Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Light) || 测重压力板（轻型）{{upcoming|be 1.16.20}} || [[测重压力板（轻质）]] ||
+|{{BlockSprite|Light Weighted Pressure Plate}} || JE：Light Weighted Pressure Plate <br>BE：Weighted Pressure Plate (Light) || 测重压力板（轻型） || [[测重压力板（轻质）]] ||
 |-
 |{{BlockSprite|Lily Of The Valley}} || Lily Of The Valley || 幽谷百合 || [[铃兰]] ||
 |-
@@ -308,8 +270,6 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Oak Trapdoor}} || Oak Trapdoor || 橡树活板门 || [[橡木活板门]] ||
 |-
-|{{BlockSprite|Observer}} || Observer || 观察者{{until|be 1.16.20}} || [[侦测器]] ||
-|-
 |{{BlockSprite|Polished Basalt}} || Polished Basalt || 平滑玄武岩 || [[磨制玄武岩]] ||
 |-
 |{{BlockSprite|Polished Blackstone Brick Slab}} || Polished Blackstone Brick Slab || 磨制黑石砖块台阶 || [[磨制黑石砖台阶]] ||
@@ -338,9 +298,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Red Nether Bricks}} || Red Nether Bricks || 红色地狱砖 || [[红色下界砖块]] ||
 |-
-|{{BlockSprite|Repeating Command Block}} || Repeating Command Block || 重复命令块{{until|be 1.16.20}} || [[循环型命令方块]] ||
-|-
-|{{BlockSprite|Repeating Command Block}} || Repeating Command Block || 重复命令方块{{upcoming|be 1.16.20}} || [[循环型命令方块]] ||
+|{{BlockSprite|Repeating Command Block}} || Repeating Command Block || 重复命令方块 || [[循环型命令方块]] ||
 |-
 |{{BlockSprite|Sandstone}} || Sandstone || 沙石 || [[砂岩]] ||
 |-
@@ -380,13 +338,9 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{BlockSprite|Structure Block}} || Structure Block || 建筑方块 || [[结构方块]] ||
 |-
-|{{BlockSprite|Structure Void}} || Structure Void || 建筑空隙{{until|be 1.16.20}} || [[结构空位]] ||
-|-
 |{{BlockSprite|Target}} || Target || 目标 || [[标靶]] ||
 |-
-|{{BlockSprite|Tube Coral Block}} || Tube Coral Block || 管珊瑚区块{{until|be 1.16.20}} || [[管珊瑚块]] ||
-|-
-|{{BlockSprite|Tube Coral Block}} || Tube Coral Block || 管珊瑚方块{{upcoming|be 1.16.20}} || [[管珊瑚块]] ||
+|{{BlockSprite|Tube Coral Block}} || Tube Coral Block || 管珊瑚方块 || [[管珊瑚块]] ||
 |-
 |{{BlockSprite|Warped Button}} || Warped Button || 扭曲按钮 || [[诡异木按钮]] ||
 |-
@@ -563,8 +517,6 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{ItemSprite|Rabbit's Foot}} || Rabbit's Foot || 兔子腿 || [[兔子脚]] ||
 |-
-|{{ItemSprite|Music Discs}} || Record || 记录{{until|be 1.16.20}} || [[唱片]] ||
-|-
 |{{ItemSprite|Redstone Dust}} || Redstone Dust || 红石 || [[红石粉]] ||
 |-
 |{{ItemSprite|Salmon Spawn Egg}} || JE：Salmon Spawn Egg <br>BE：Spawn Salmon || 鲑鱼蛋 || [[鲑鱼刷怪蛋]] ||
@@ -619,8 +571,6 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |{{EntitySprite|Dark Oak Boat}} || Dark Oak Boat || 黑橡木船 || [[深色橡木船]] ||
 |-
 |{{EntitySprite|Drowned}} || Drowned || 水鬼 || [[溺尸]] ||
-|-
-|{{EntitySprite|Elder Guardian}} || Elder Guardian || 老守卫者{{until|be 1.16.20}} || [[远古守卫者]] ||
 |-
 |{{EntitySprite|Falling Blocks}} || Falling Blocks || 掉落的方块 || [[下落的方块]] ||
 |-
@@ -682,9 +632,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{EntitySprite|Llama Spit}} || Llama Spit || 羊驼口水 || [[羊驼唾沫]] ||
 |-
-|{{EntitySprite|Minecart With Command Block}} || Minecart With Command Block || 带命令方块的矿车{{upcoming|be 1.16.20}} || [[命令方块矿车]] ||
-|-
-|{{EntitySprite|Minecart With Command Block}} || Minecart With Command Block || 带有命令块的《我的世界》{{until|be 1.16.20}} || [[命令方块矿车]] ||
+|{{EntitySprite|Minecart With Command Block}} || Minecart With Command Block || 带命令方块的矿车 || [[命令方块矿车]] ||
 |-
 |{{EntitySprite|Minecart With Furnace}} || Minecart With Furnace || 带熔炉的矿车 || [[动力矿车]] ||
 |-
@@ -698,13 +646,9 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 |{{EntitySprite|Ravager}} || Ravager || 掠夺兽 || [[劫掠兽]] ||
 |-
-|{{EntitySprite|Ravager}} || Illager Beast || 乡村野兽 || [[灾厄之兽]] || {{until|be 1.11.0}}
-|-
 |{{EntitySprite|Shulker}} || Shulker || 潜匿之贝 || [[潜影贝]] ||
 |-
 |{{EntitySprite|Shulker Bullet}} || Shulker Bullet || 潜匿之贝子弹 || [[潜影贝|潜影贝子弹]] ||
-|-
-|{{EntitySprite|Tipped Arrow}} || Tipped Arrow || 锐箭{{until|be 1.16.20}} || [[药箭]] ||
 |-
 |{{EntitySprite|Vex}} || Vex || 威克斯 || [[恼鬼]] ||
 |-
@@ -731,19 +675,19 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 !中文（标准译名）
 !注释
 |-
-| {{EntitySprite|End City}} || End City || 末地之城 || [[末地城]] ||
+| {{EnvSprite|End City}} || End City || 末地之城 || [[末地城]] ||
 |-
-| {{EntitySprite|Nether Fortress}} || Nether Fortress || 地狱堡垒 || [[下界要塞]] ||
+| {{EnvSprite|Nether Fortress}} || Nether Fortress || 地狱堡垒 || [[下界要塞]] ||
 |-
-| {{EntitySprite|Woodland Mansion}} || Woodland Mansion || 林地宅邸 || [[林地府邸]] ||
+| {{EnvSprite|Woodland Mansion}} || Woodland Mansion || 林地宅邸 || [[林地府邸]] ||
 |-
-| {{EntitySprite|Ocean Monument}} || Ocean Monument || 海底遗迹 || [[海底神殿]] ||
+| {{EnvSprite|Ocean Monument}} || Ocean Monument || 海底遗迹 || [[海底神殿]] ||
 |-
-| {{EntitySprite|Ocean Ruins}} || Ocean Ruins || 海洋废墟 || [[海底废墟]] ||
+| {{EnvSprite|Ocean Ruins}} || Ocean Ruins || 海洋废墟 || [[海底废墟]] ||
 |-
-| {{EntitySprite|Pillager Outpost}} || Pillager Outpost || 劫掠者前哨 || [[掠夺者前哨站]] ||
+| {{EnvSprite|Pillager Outpost}} || Pillager Outpost || 劫掠者前哨 || [[掠夺者前哨站]] ||
 |-
-| {{EntitySprite|Ruined Portal}} || Ruined Portal || 破坏的传送门 || [[废弃传送门]] ||
+| {{EnvSprite|Ruined Portal}} || Ruined Portal || 破坏的传送门 || [[废弃传送门]] ||
 |}
 
 === 其他 ===
@@ -777,11 +721,7 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 | Frost Walker || 寒冰行者 || [[冰霜行者]] || 魔咒
 |-
-| Mending || 正在治愈{{until|be 1.16.20}} || [[经验修补]] || 魔咒
-|-
 | Multishot || 多重箭 || [[多重射击]] || 魔咒
-|-
-| Quick Charge || 快速冲锋{{until|be 1.16.20}} || [[快速装填]] || 魔咒
 |-
 | Raid || 劫掠 || [[袭击]] || 事件
 |-
@@ -805,17 +745,13 @@ Minecraft[[基岩版]]的翻译与[[Java版]]不同，后者由[[Crowdin]]上的
 |-
 | Firework Stars || 焰火炸药 || [[烟火之星]] || 物品组
 |-
-| Coral || 珊瑚区块{{until|be 1.16.20}} || [[珊瑚块]] || 物品组
-|-
-| Coral || 珊瑚方块{{upcoming|be 1.16.20}} || [[珊瑚块]] || 物品组
+| Coral || 珊瑚方块 || [[珊瑚块]] || 物品组
 |-
 | Spawn Egg || 生物蛋 || [[刷怪蛋]] || 物品组
 |-
 | Skull || 生物颅骨 || [[生物头颅]] || 物品组
 |-
-| Conduit Power || 导管能量{{until|be 1.16.20}} || [[潮涌能量]] || 状态效果
-|-
-| Conduit Power || 潮涌核心能量{{upcoming|be 1.16.20}} || [[潮涌能量]] || 状态效果
+| Conduit Power || 潮涌核心能量 || [[潮涌能量]] || 状态效果
 |-
 | Fire Resistance || 抗火 || [[防火]] || 状态效果
 |-
