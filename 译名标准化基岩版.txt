@@ -118,7 +118,7 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{BlockSprite|Grass}} || Grass || 地被植物 || [[草]] ||
 |-
-|{{BlockSprite|Grass Path}} || Dirt Path || 泥土小径 || [[土径]] ||{{upcoming|be 1.16.200}}}
+|{{BlockSprite|Grass Path}} || Dirt Path || 泥土小径 || [[土径]] ||{{upcoming|be 1.16.200}}
 |-
 |{{BlockSprite|Hay Bale}} || Hay Bale || 干草捆 || [[干草块]] ||
 |-
@@ -214,8 +214,6 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{BlockSprite|Warped Hyphae}} || Warped Hyphae || 诡异菌丝 || [[诡异菌核]] ||
 |-
-|{{BlockSprite|Warped Planks}} || Warped Planks || 诡异木板 || [[诡异木板]] ||
-|-
 |{{BlockSprite|Warped Roots}} || Warped Roots || 诡异菌根 || [[诡异菌索]] ||
 |-
 |{{BlockSprite|Warped Wart Block}} || Warped Wart Block || 诡异疣方块 || [[诡异疣块]] ||
@@ -265,15 +263,9 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{ItemSprite|Clock}} || Clock || 钟 || [[时钟]] ||
 |-
-|{{ItemSprite|Cod Spawn Egg}} || JE：Cod Spawn Egg <br>BE：Spawn Cod || 鳕鱼蛋 || [[鳕鱼刷怪蛋]] ||
-|-
 |{{ItemSprite|Firework Rocket}} || Creeper || 爬行者状 || [[烟花火箭|苦力怕状]] ||
 |-
 |{{ItemSprite|Banner Pattern}} || Creeper Charge || 爬行者头像 || [[旗帜图案|苦力怕盾徽]] ||
-|-
-|{{ItemSprite|Dolphin Spawn Egg}} || JE：Dolphin Spawn Egg <br>BE：Spawn Dolphin || 海豚蛋 || [[海豚刷怪蛋]] ||
-|-
-|{{ItemSprite|Drowned Spawn Egg}} || JE：Drowned Spawn Egg <br>BE：Spawn Drowned || 水鬼蛋 || [[溺尸刷怪蛋]] ||
 |-
 |{{ItemSprite|Map}} || Empty Locator Map || 空的定位器地图 || [[地图|空定位地图]] ||
 |-
@@ -317,11 +309,7 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{ItemSprite|Potion of Slowness}} || Potion of Slowness || 缓慢药水 || [[迟缓药水]] ||
 |-
-|{{ItemSprite|Pufferfish Spawn Egg}} || JE：Pufferfish Spawn Egg <br>BE：Spawn Pufferfish || 河豚蛋 || [[河豚刷怪蛋]] ||
-|-
 |{{ItemSprite|Redstone Dust}} || Redstone Dust || 红石 || [[红石粉]] ||
-|-
-|{{ItemSprite|Salmon Spawn Egg}} || JE：Salmon Spawn Egg <br>BE：Spawn Salmon || 鲑鱼蛋 || [[鲑鱼刷怪蛋]] ||
 |-
 |{{ItemSprite|Shield}} || Shield || 护盾 || [[盾牌]] ||
 |-
@@ -331,9 +319,7 @@ The following table displays some of the major mistakes in Bedrock Edition that 
 |-
 |{{ItemSprite|Splash Potion}} || Splash Potions || 喷溅 || [[喷溅药水|喷溅型]] || 【一系列】
 |-
-|{{ItemSprite|Steak}} || Steak || 熟牛肉 || [[牛排]] ||
-|-
-|{{ItemSprite|Tropical Fish Spawn Egg}} || JE：Tropical Fish Spawn Egg <br>BE：Spawn Tropical Fish || 热带鱼蛋 || [[热带鱼刷怪蛋]] ||
+|{{ItemSprite|Steak}} || JE：Steak <br>BE：Cooked Beef || 熟牛肉 || [[牛排]] ||
 |-
 |{{ItemSprite|Warped Fungus on a Stick}} || Warped Fungus on a Stick || 诡异真菌钓竿 || [[诡异菌钓竿]] ||
 |-
